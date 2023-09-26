@@ -1,12 +1,11 @@
 package com.ravi.thapa.list.linkedlist;
 
 import java.util.LinkedList;
-import java.util.List;
 
 public class LinkedListEx1 {
 
 	public static void main(String[] args) {
-		List names = new LinkedList();
+		LinkedList names = new LinkedList();
 		names.add("Neel");
 		names.add("Roky");
 		names.add("John");
